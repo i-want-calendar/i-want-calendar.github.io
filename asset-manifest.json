@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.653da357.css",
   "main.css.map": "static/css/main.653da357.css.map",
-  "main.js": "static/js/main.1184a70a.js",
-  "main.js.map": "static/js/main.1184a70a.js.map",
+  "main.js": "static/js/main.c90c3f08.js",
+  "main.js.map": "static/js/main.c90c3f08.js.map",
   "static/media/L1.jpeg": "static/media/L1.4f4920d5.jpeg",
   "static/media/L10.jpeg": "static/media/L10.8f905539.jpeg",
   "static/media/L10B.jpeg": "static/media/L10B.07dd18df.jpeg",
@@ -26,5 +26,6 @@
   "static/media/L8.jpeg": "static/media/L8.6fafb515.jpeg",
   "static/media/L8B.jpeg": "static/media/L8B.6b448f6d.jpeg",
   "static/media/L9.jpeg": "static/media/L9.890c3f45.jpeg",
-  "static/media/L9B.jpeg": "static/media/L9B.2f6b1d9c.jpeg"
+  "static/media/L9B.jpeg": "static/media/L9B.2f6b1d9c.jpeg",
+  "static/media/wechat_qr.jpeg": "static/media/wechat_qr.6cbed012.jpeg"
 }
